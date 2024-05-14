@@ -41,7 +41,8 @@ exit(0);}
 
 ## OUTPUT
 ```
--rwxr-xr-x    1 root     root         18348 Apr 17 14:14 file.o
+![image](https://github.com/gokulprakash23013924/Linux-File-IO-Systems-locking/assets/150231472/9998d9f8-6724-4e22-a661-713aa7359930)
+
 ```
 ## 2.To Write a C program that illustrates files locking
 ```
@@ -86,7 +87,8 @@ return 0;
 ## OUTPUT
 
 ```
--rwxr-xr-x    1 root     root         18376 Apr 17 14:20 text.o
+![image](https://github.com/gokulprakash23013924/Linux-File-IO-Systems-locking/assets/150231472/eab46a9b-a5cd-450c-9a9d-ae906fec7122)
+
 ```
 # RESULT:
 The programs are executed successfully.
